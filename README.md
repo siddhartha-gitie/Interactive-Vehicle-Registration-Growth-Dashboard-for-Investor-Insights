@@ -103,4 +103,4 @@ Open http://localhost:8501 in your web browser.
 ---
 
 ## 🙌 Author
-Siddhartha — Data Analyst / Developer
+Siddhartha — Data Analyst and AI Engineer
